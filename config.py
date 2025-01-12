@@ -1,7 +1,7 @@
 # API credentials
-API_ID = 123456
-API_HASH = "DWSC65HGFswcf56g8ergjhgdw54586"
-BOT_TOKEN = "123456:abcdekgfiJLKMNOPqjngghdf"
+API_ID = 26162072
+API_HASH = "ba25181c01b50d945748801b6c8b6ecc"
+BOT_TOKEN = "7446451170:AAERhMeqVV-gXMduPJxIAladE26qfgNFKWM"
 
 # Redis configuration
 REDIS_CONFIG = {
@@ -22,4 +22,4 @@ COOKIE = {
 # COOKIE FOR AUTHENTICATION (get from chrome dev tools) ex: "PANWEB=1; csrfToken=; lang=en; TSID=; __bid_n=; _ga=; __stripe_mid=; ndus=; browserid==; ndut_fmt=; _ga_06ZNKL8C2E=" (don't use this)
 
 # List of bot admins
-ADMINS = [803003146]
+ADMINS = [6717382350]
